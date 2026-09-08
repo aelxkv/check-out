@@ -2,23 +2,23 @@ Introduction to Markdown
 
 Markdown is a lightweight markup language used to format text easily.
 
-##1. Headings
+## 1. Headings
 
 # Heading 1
 ## Heading 2
 ### Heading 3
 
-##2. Bold and Italic
+## 2. Bold and Italic
 
 **Bold text**
 *Italic text*
 ***Bold and italic text***
 
-##3. Paragraph
+## 3. Paragraph
 
 This is a normal paragraph.
 
-##4. Lists
+## 4. Lists
 
 Unordered List
 
@@ -34,15 +34,15 @@ Ordered List
 
 
 
-##5. Links
+## 5. Links
 
 [Google](https://www.google.com)
 
-##6. Images
+## 6. Images
 
 ![Image description](image.jpg)
 
-##7. Code
+## 7. Code
 
 Inline code:
 
@@ -54,15 +54,15 @@ Code block:
 print("Hello World")
 ```
 
-##8. Blockquote
+## 8. Blockquote
 
 > This is a quotation.
 
-##9. Horizontal Line
+## 9. Horizontal Line
 
 ---
 
-##10. Table
+## 10. Table
 
 | Name | Age |
 |------|-----|
