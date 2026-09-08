@@ -1,6 +1,6 @@
-Introduction to Markdown
+# **Introduction to Markdown**
 
-Markdown is a lightweight markup language used to format text easily.
+**_Markdown is a lightweight markup language used to format text easily._**
 
 ## 1. Headings
 
