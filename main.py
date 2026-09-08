@@ -1,1 +1,3 @@
-print("Hello!")
+print ("Hello!")
+x=5
+y=10
