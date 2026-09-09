@@ -13,6 +13,7 @@
 **Bold text**
 *Italic text*
 ***Bold and italic text***
+--This is a strike one--
 
 ## 3. Paragraph
 
