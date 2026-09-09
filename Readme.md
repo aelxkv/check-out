@@ -8,12 +8,12 @@
 ## Heading 2
 ### Heading 3
 
-## 2. Bold and Italic
+## 2. Bold, Italic and Striked text
 
 **Bold text**
 *Italic text*
 ***Bold and italic text***
---This is a strike one--
+~~This text is crossed out~~
 
 ## 3. Paragraph
 
